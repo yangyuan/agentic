@@ -7,8 +7,15 @@ environment:
   sdk: ^3.12.2
 
 dependencies:
+  file_picker: ^11.0.2
   flutter:
     sdk: flutter
+  image_picker: ^1.2.1
+  litertlm: 0.0.7
+  path_provider: ^2.1.6
+  record: ^6.1.2
+  shared_preferences: ^2.5.5
+  web: ^1.1.1
 
 dev_dependencies:
   flutter_test:
