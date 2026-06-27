@@ -11,7 +11,7 @@ dependencies:
   flutter:
     sdk: flutter
   image_picker: ^1.2.1
-  litertlm: 0.0.7
+  litertlm: 0.0.8
   path_provider: ^2.1.6
   record: ^6.1.2
   shared_preferences: ^2.5.5
